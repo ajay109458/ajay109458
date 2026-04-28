@@ -87,22 +87,16 @@ I like to think in terms of leverage: if a change improves reliability, develope
 A cloud platform that automated provisioning, deployment, and management across 5,000 Kubernetes clusters and 2.5M managed nodes at peak scale.
 
 **Tech used:** Microsoft Azure, Kubernetes, container orchestration, infrastructure automation  
-**GitHub repo:** [Repository placeholder](https://github.com/ajay109458/<repo-name>)  
-**Live demo:** [Live demo placeholder](https://<project-demo-url>)
 
 ### Azure Sovereign Clouds — France, Germany, and Singapore
 Built sovereign cloud infrastructure for multiple nations from the ground up, including networking and DNS services designed for highly regulated environments.
 
 **Tech used:** Azure, networking, DNS services, large-scale cloud infrastructure  
-**GitHub repo:** [Repository placeholder](https://github.com/ajay109458/<repo-name>)  
-**Live demo:** [Live demo placeholder](https://<project-demo-url>)
 
 ### Azure DNS at Sovereign Scale
 Designed and operated mission-critical DNS services handling massive daily query volume with five-nines availability expectations.
 
 **Tech used:** Azure DNS, distributed systems, observability, reliability engineering  
-**GitHub repo:** [Repository placeholder](https://github.com/ajay109458/<repo-name>)  
-**Live demo:** [Live demo placeholder](https://<project-demo-url>)
 
 ---
 
@@ -149,9 +143,11 @@ If you’re building something ambitious in cloud infrastructure, distributed sy
 **Ask me about:**
 - DNS at scale
 - Kubernetes orchestration
-- Azure sovereign cloud architecture
 - Reliability engineering
-- Distributed systems tradeoffs
+- Distributed systems
+- Database Internals
+- Microservices
+- Algorithms
 - Building software for high-stakes environments
 
 **Fun facts:**
