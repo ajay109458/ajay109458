@@ -1,8 +1,9 @@
+<!-- markdownlint-disable MD033 MD041 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B3FF,100:0044AA&height=200&section=header&text=Ajay%20Kumar%20Yadav&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Staff%20Software%20Engineer%20%40%20Google&descAlignY=58&descSize=20&descColor=CCE8FF" alt="Ajay Kumar Yadav — Staff Software Engineer at Google" width="100%" />
+
 <div align="center">
 
-# Ajay Kumar Yadav
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=00B3FF&center=true&vCenter=true&width=860&lines=Staff+Software+Engineer+%40+Google;Cloud+Infrastructure+%7C+Kubernetes+%7C+Distributed+Systems;I+build+platforms+that+work+at+civilizational+scale)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1200&color=00B3FF&center=true&vCenter=true&width=860&lines=Cloud+Infrastructure+%7C+Kubernetes+%7C+Distributed+Systems;I+build+platforms+that+work+at+civilizational+scale;Google+%E2%86%90+Microsoft+%E2%86%90+Disney%2B+Hotstar)](https://git.io/typing-svg)
 
 **Building infrastructure where failure is expensive and scale is non-negotiable.**
 
@@ -33,11 +34,7 @@ What I optimize for:
 
 ## Now
 
-What I'm focused on right now:
-
-- Platform engineering patterns for large-scale Kubernetes environments
-- Improving developer experience and operational tooling at Google
-- Exploring eBPF-based observability and tracing in cloud-native infrastructure
+Building Google Infrastructure to deliver compute, memory, GPUs and TPUs resources with the reliability of Google Cloud infrastructure.
 
 ---
 
@@ -47,7 +44,7 @@ These are highlights from my career. Most of this work was internal; where I hav
 
 ### Cosmic — Cloud Infrastructure Platform (Microsoft Azure)
 
-Designed and operated the platform automating provisioning, deployment, and management across **5,000 Kubernetes clusters** and **2.5M managed nodes** at peak scale. The system handled the full lifecycle: bootstrap, scheduling, upgrade orchestration, and failure recovery — with zero-touch operations as the target state.
+Designed and operated the platform automating provisioning, deployment, and management across **5,000+ AKS clusters** and **6.7M+ cores** at peak scale. The system handled the full lifecycle: bootstrap, scheduling, upgrade orchestration, and failure recovery — with zero-touch operations as the target state.
 
 `Azure` `Kubernetes` `Go` `Container Orchestration` `Infrastructure Automation`
 
@@ -117,6 +114,17 @@ If you're building something ambitious in cloud infrastructure, platform enginee
 
 ---
 
+## Interests
+
+Beyond engineering, the subjects I keep coming back to:
+
+![Computer Science](https://img.shields.io/badge/Computer%20Science-0A66C2?style=flat-square&logoColor=white)
+![Physics](https://img.shields.io/badge/Physics-6A0DAD?style=flat-square&logoColor=white)
+![Mathematics](https://img.shields.io/badge/Mathematics-0D7A3E?style=flat-square&logoColor=white)
+![Self--Help%20Books](https://img.shields.io/badge/Self--Help%20Books-D97706?style=flat-square&logoColor=white)
+
+---
+
 ## Ask Me About
 
 DNS at scale · Kubernetes orchestration · Sovereign cloud design · Reliability engineering · Distributed systems internals · Platform engineering
@@ -139,3 +147,5 @@ DNS at scale · Kubernetes orchestration · Sovereign cloud design · Reliabilit
 [![Email](https://img.shields.io/badge/Email-ajay.yadav109458%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ajay.yadav109458@gmail.com)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0044AA,100:00B3FF&height=120&section=footer" alt="Footer wave" width="100%" />
