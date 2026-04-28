@@ -171,24 +171,3 @@ If you’re building something ambitious in cloud infrastructure, distributed sy
 [![Twitter](https://img.shields.io/badge/Twitter-X%20%2F%20Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/<your-handle>)
 
 </div>
-
----
-
-## Bonus Ideas To Stand Out
-
-- Add a compact “Now” section with what you are actively learning or building this month.
-- Add a personal “Engineering Principles” block with 3 to 5 rules you actually follow.
-- Add a mini case-study section for one flagship project, with metrics, architecture, and lessons learned.
-- Add a blog card if you publish technical writing.
-- Add a Spotify or music widget if you want a more human feel.
-- Add a metrics card for coding activity if you want a more data-rich profile.
-- Add a short “featured talk / interview / writing” section if you have public appearances.
-- Add a custom banner image at the top for stronger brand recall.
-
-<!--
-Suggested personalization upgrades:
-- Replace placeholders in Featured Projects with public repos or case-study links.
-- If you want a cleaner, more premium look, keep the palette tight: black, white, and one blue accent.
-- Consider adding a custom profile banner image matching your portfolio identity.
-- If you publish technical articles, add a "Latest Writing" card with RSS or GitHub Pages links.
--->
